@@ -1,6 +1,6 @@
 # vue-project
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a project where i want to learn about VueJS, Tailwind and API's in general. 
 
 ## Recommended IDE Setup
 
@@ -27,3 +27,7 @@ npm run dev
 ```sh
 npm run build
 ```
+
+(Make sure you are in the right directory! You need to be in the "./vue-project/" folder to run these commands!)
+
+(And if you want to just test this on your own, just run the "npm run dev" command after cloning this repository)
